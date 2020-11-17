@@ -29,3 +29,4 @@ end
 
 
 create_project_hash
+puts projects
